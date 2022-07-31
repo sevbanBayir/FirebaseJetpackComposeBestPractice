@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787634392770",
+    "project_id": "fir-withjetpackcompose",
+    "storage_bucket": "fir-withjetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787634392770:android:6f43b6da7eae82c686755b",
+        "android_client_info": {
+          "package_name": "com.sevban.firebasewithjetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787634392770-cbrmjh9tb9th8klevp84nqg5999rpqjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLrn_8Cy4HS1LV4JayF5fwfn3fUQ9uSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787634392770-cbrmjh9tb9th8klevp84nqg5999rpqjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
